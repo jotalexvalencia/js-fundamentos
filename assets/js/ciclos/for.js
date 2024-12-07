@@ -1,4 +1,4 @@
-const heroes = ['Batman', 'Superman', 'Mujer Maravilla', 'Aquaman'];
+const heroes = ['Batman', 'Superman', 'Mujer Maravilla', 'Aquaman', 'Jefe Apache'];
 
 console.warn('For tradicional');
 
